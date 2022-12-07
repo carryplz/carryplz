@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carryplz&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
   
-  ### carryplz(Jo In Cheol)
+  ### carryplz(Jo In Cheol)-조인철
   
   ---
   **Languges and Tools**
@@ -28,12 +28,20 @@
   
 </div>
 
-
-
 ---
 
 <div align=center>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carryplz)](https://github.com/carryplz/github-readme-stats)
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=carryplz"/>
 
+  </br>
+  </br>
+  
+  **발전하는 개발자가 되자**
+  
+  
+  늘 어떤 방식이 더 좋을지 생각하고   
+  다른 사람들의 의견을 수용하여   
+  성장하는 개발자가 되려고 노력하고 있습니다.
+  
 </div>
